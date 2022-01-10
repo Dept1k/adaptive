@@ -246,7 +246,7 @@ body {
   width: 100%;
   height: 100%;
   min-height: 600px;
-  background: center/auto auto no-repeat url("/source/img/Logo2.png"), center/cover no-repeat url("/adaptive/blob/main/source/img/Layer_10.png");
+  background: center/auto auto no-repeat url("/adaptive/source/img/Logo2.png"), center/cover no-repeat url("/adaptive/source/img/Layer_10.png");
 }
 .vintage__right {
   -webkit-box-flex: 1;
@@ -313,7 +313,7 @@ body {
   padding: 0;
   width: 100%;
   height: 100%;
-  background: url("/source/img/Layer_11.png") center no-repeat;
+  background: url("/adaptive/source/img/Layer_11.png") center no-repeat;
   background-size: cover;
 }
 
@@ -386,7 +386,7 @@ body {
   background-color: #cdcdcd;
 }
 .boriosa__image {
-  background: url("/source/img/Layer_13.png") center no-repeat;
+  background: url("/adaptive/source/img/Layer_13.png") center no-repeat;
   background-size: cover;
   width: 100%;
   height: 100%;
@@ -396,7 +396,7 @@ body {
   -webkit-box-flex: 1;
       -ms-flex: 1 1 66.666%;
           flex: 1 1 66.666%;
-  background: center/auto auto no-repeat url("/source/img/Logo3.png"), center/cover no-repeat url("/source/img/Layer_12.png");
+  background: center/auto auto no-repeat url("/adaptive/source/img/Logo3.png"), center/cover no-repeat url("/adaptive/source/img/Layer_12.png");
   min-height: 600px;
 }
 
@@ -415,7 +415,7 @@ body {
   -webkit-box-flex: 1;
       -ms-flex: 1 1 33.333%;
           flex: 1 1 33.333%;
-  background: center/auto auto no-repeat url("/source/img/Logo4.png"), center/cover no-repeat url("/source/img/Layer_15.png");
+  background: center/auto auto no-repeat url("/adaptive/source/img/Logo4.png"), center/cover no-repeat url("/adaptive/source/img/Layer_15.png");
   min-height: 600px;
 }
 .retrobike__second {
@@ -435,7 +435,7 @@ body {
   -webkit-box-flex: 1;
       -ms-flex: 1 1 33.333%;
           flex: 1 1 33.333%;
-  background: center/cover no-repeat url("/source/img/Layer_14.png");
+  background: center/cover no-repeat url("/adaptive/source/img/Layer_14.png");
   min-height: 600px;
 }
 
@@ -487,7 +487,7 @@ body {
   width: 100%;
   height: 100%;
   height: 200px;
-  background: url("/source/img/Layer_16.png") center no-repeat;
+  background: url("/adaptive/source/img/Layer_16.png") center no-repeat;
   background-size: cover;
 }
 
@@ -614,21 +614,21 @@ body {
           flex: 1 1 50%;
 }
 .left__left {
-  background: url("/source/img/Layer_19.png") center no-repeat;
+  background: url("/adaptive/source/img/Layer_19.png") center no-repeat;
   -webkit-box-flex: 1;
       -ms-flex: 1 1 50%;
           flex: 1 1 50%;
   background-size: cover;
 }
 .left__right {
-  background: url("/source/img/Layer_21.png") center no-repeat;
+  background: url("/adaptive/source/img/Layer_21.png") center no-repeat;
   -webkit-box-flex: 1;
       -ms-flex: 1 1 50%;
           flex: 1 1 50%;
   background-size: cover;
 }
 .left__bottom {
-  background: url("/source/img/Layer_20.png") center no-repeat;
+  background: url("/adaptive/source/img/Layer_20.png") center no-repeat;
   -webkit-box-flex: 1;
       -ms-flex: 1 1 100%;
           flex: 1 1 100%;
@@ -636,7 +636,7 @@ body {
 }
 
 .center__left-column {
-  background: url("/source/img/Layer_22.png") center no-repeat;
+  background: url("/adaptive/source/img/Layer_22.png") center no-repeat;
   height: 534px;
   -webkit-box-flex: 1;
       -ms-flex: 1 1 50%;
@@ -644,7 +644,7 @@ body {
   background-size: cover;
 }
 .center__right-column {
-  background: url("/source/img/Layer_25.png") center no-repeat;
+  background: url("/adaptive/source/img/Layer_25.png") center no-repeat;
   height: 534px;
   -webkit-box-flex: 1;
       -ms-flex: 1 1 50%;
@@ -658,7 +658,7 @@ body {
   display: flex;
 }
 .right__top {
-  background: center/auto auto no-repeat url("/source/img/Shape_13.png"), center/cover no-repeat url("/source/img/Bg2.png"), center/cover no-repeat url("/source/img/Layer_23.png");
+  background: center/auto auto no-repeat url("/adaptive/source/img/Shape_13.png"), center/cover no-repeat url("/adaptive/source/img/Bg2.png"), center/cover no-repeat url("/adaptive/source/img/Layer_23.png");
   height: 267px;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -680,7 +680,7 @@ body {
 }
 
 .bottom__right {
-  background: url("/source/img/Layer_24.png") center no-repeat;
+  background: url("/adaptive/source/img/Layer_24.png") center no-repeat;
   height: 267px;
   -webkit-box-flex: 1;
       -ms-flex: 1 1 50%;
@@ -691,7 +691,7 @@ body {
   background-size: cover;
 }
 .bottom__left {
-  background: url("/source/img/Layer_26.png") center no-repeat;
+  background: url("/adaptive/source/img/Layer_26.png") center no-repeat;
   height: 267px;
   -webkit-box-flex: 1;
       -ms-flex: 1 1 50%;
